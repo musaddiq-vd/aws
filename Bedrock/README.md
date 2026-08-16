@@ -23,6 +23,7 @@ bedrock recommend starting with the OpenAI-compatible Responses API.
     Invoke → Direct/ request/response format
 
 # Set environment variables
+refer aws console ------
 set OPENAI_API_KEY="your-key"
 set OPENAI_BASE_URL="https://bedrock-mantle.us"
 
@@ -31,3 +32,6 @@ pip install openai
 
 # Run code 
 01_Generate_text_OpeAI.py
+02_Stream responses.py
+
+
