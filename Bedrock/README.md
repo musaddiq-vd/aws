@@ -32,6 +32,7 @@ pip install openai boto3
 
 # Run code 
 01_Generate_text_OpeAI.py
+
     01.1_01_Generate_text_OpeAI.py
 
 02_Stream responses.py
