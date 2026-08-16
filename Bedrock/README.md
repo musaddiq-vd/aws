@@ -28,7 +28,7 @@ set OPENAI_API_KEY="your-key"
 set OPENAI_BASE_URL="https://bedrock-mantle.us"
 
 # Install the SDK
-pip install openai
+pip install openai boto3
 
 # Run code 
 01_Generate_text_OpeAI.py
