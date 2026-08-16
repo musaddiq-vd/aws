@@ -43,10 +43,12 @@ pip install openai boto3
 
 ## ON_DEMAND vs INFERENCE_PROFILE
 ON_DEMAND → Directly invokes a model available in the current region.
+
 INFERENCE_PROFILE → Routes the request through an AWS-managed profile, commonly for cross-region inference.
 
 ## GPT-OSS 20B vs GPT-OSS Safeguard 20B
 GPT-OSS 20B → General-purpose model for chat, reasoning, coding, and generation.
+
 GPT-OSS Safeguard 20B → Safety-focused model fine-tuned for content safety classification and moderation.
 
 ## Choose API method
