@@ -32,6 +32,8 @@ pip install openai
 
 # Run code 
 01_Generate_text_OpeAI.py
+
 02_Stream responses.py
 
+03_Analyze media_documents.py
 
