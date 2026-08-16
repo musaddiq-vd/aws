@@ -37,3 +37,5 @@ pip install openai boto3
 
 03_Analyze media_documents.py
 
+04_Analyze media_image.py
+
